@@ -161,7 +161,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.audionowdigital.player.bbc
+    Android: com.catalinagroup.call
     Standalone: com.TridentMedia.ProductName
     iPhone: com.TridentMedia.ProductName
   buildNumber:
