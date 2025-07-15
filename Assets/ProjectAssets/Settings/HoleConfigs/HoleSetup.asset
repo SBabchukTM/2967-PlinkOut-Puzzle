@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d710b9e445ff47e4c9ac76b502c03ed9, type: 3}
+  m_Name: HoleSetup
+  m_EditorClassIdentifier: 
+  HoleConfigs:
+  - {fileID: 11400000, guid: f82796e803615924f8901466fe2d8c9e, type: 2}
+  - {fileID: 11400000, guid: 0ab3d4ff2461b054c907ac4635742443, type: 2}
+  - {fileID: 11400000, guid: 7561f5c31dccfe843af70b6ae0909028, type: 2}
+  - {fileID: 11400000, guid: d9e33be74f636994684ed23c877b1b7e, type: 2}
+  - {fileID: 11400000, guid: 24ead15ee716fff4198841de85347671, type: 2}
+  - {fileID: 11400000, guid: 99c989d253dbfab44908143212eb9bb6, type: 2}

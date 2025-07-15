@@ -1,0 +1,18 @@
+{
+    "name": "UserProfile",
+    "rootNamespace": "",
+    "references": [
+        "GUID:58b8905714dedd04693f1fb3fd955437",
+        "GUID:b753414342bc8d54b8a425ebe7dec914",
+        "GUID:6e5063adab271564ba0098a06a8cebda"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
