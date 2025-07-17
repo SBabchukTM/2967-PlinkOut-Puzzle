@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd00f84340efaba429b2bd02633be7a0, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  AttributionUrl: plinkoutpuzzle.life/privacypolicy/
+  GadIdKey: qpk0ocsqk6
+  ReferrerKey: xuinf7lfd9
+  ExtraParam1: e8awrm8tc22wl4
+  ExtraParam2: nkhamgaa3ujlhxc1uj
+  ExtraParam3: u7v4mlaw92c
+  ExtraParam4: zaqey9n13182
+  ExtraParam5: qny90cgyi0octs9
+  ExtraParam7: oxog1nk28zr7x
+  ExtraParam8: us4vvw2h7cpxi7
+  ExtraParam9: zudukbssud
+  PushNotificationTag: l6r6r0lrpajqc1b
+  CustomUserAgent: ropvnmzim6w4nr
+  FcmTokenKey: 0x2jopz9y9
+  PushNotificationApiUrl: plinkoutpuzzle.life/t4jnu0fs7l/
+  PushNotificationApiGadidKey: rmqrlbwhn8
+  PushNotificationApiFcmTokenKey: 7btjaxhwez
+  PushNotificationApiPushTagKey: liuw6revkq
+  PostbackApiUrl: plinkoutpuzzle.life/1xvr7bfpmi/
+  PostbackTrackingIdKey: 467to3aw7c
+  PostbackFcmTokenKey: mwyc71jghi
+  isDebug: 0
+  apiVersion: 202
+  codeVersion: TM_APPS
+  useMocInstallReferrer: 0
+  mocInstallReferrer: utm_source=apps.facebook.com&utm_campaign=fb4a_content=%7B%22app%22%3A%2223623634262346%22%2C%22t%22%3A1752738535%2C%22source%22%3A%7B%22data%22%3A%22a2397942e457ef1d0baf8558d532a1551b58fd5178cb53429f4edb9f55290120e5c302fd57331da739dded506454c505b45fd6839bef89f5654da297d24261ab4eef042086e0456b17e2629fc652d40c1bd554793b6db523f47987c2a644e3dfc5c1c7180d0b87582d908b39ec3b99412c753d605e16b388f6b2081060a6411a2efa500f72e52cbb19e8834d48c462be0fd4fe13731d8b4124716ebb619cd29e20a14fb40d41294ded3b27ff36f686211b6ac8fe53aee396ff1e95a73ed0c3c19d611e153a9fa2bd20d16584f5e49aed804d85c359be4eed1369f1113ba0683ac798fc925db0b752ca1fe5c8aa9ba137826b726ff5df943ba33a012b54f4f2b9af5f4bdc542fd54ee6126618d4c5a70a684b951d74843b2f09718c4ceb4c38994c586cdb78850b6cae2cc12bd0153077ce1947b12af1f6d1192146fcd3ff897b777e3b7b1a4bd4e612063ae25e39909e31537aaa8b8d40ecc75347367e304e67d9306f66c108ed9e3b41c1203b611409eb8f4280043e6345416cd54012253302d8dfcc1eda23496c2ddf1cd853f3b84ce14005a3182cf9e525572032279a8a6b992280e133273ffdac490db7c7b37b397e17d96204c826bf388880f3741bad5096ca7b1d1c9fdbe080acea812b23cf705c3fc01a5fc25f1e5fb22a5937134d1a6a1692348d0dafb4ed2ba780abdd839c4ab8399f488fe560eeecd21b2b941c4ea7add8965ed44d8cda1b9206b747e079ff64a23e22d985cba355a179d76aded9ec495aefcc256eb6b523abbc308c12e87bb157405846bc5c59fed41e080d54806b989d0b6279%22%2C%22nonce%22%3A%22d6b78d5a403bcb94d94af049%22%7D%7D
