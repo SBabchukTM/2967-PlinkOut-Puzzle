@@ -35,6 +35,7 @@
       <Path>UIElementsSchema</Path>
       <Path>UserSettings</Path>
       <Path>fastlane</Path>
+      <Path>obj</Path>
     </explicitExcludes>
   </component>
 </project>

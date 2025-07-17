@@ -7,6 +7,9 @@
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="AddressableAssetsData" t="Include">
+          <e p="link.xml" t="Include" />
+        </e>
         <e p="AndroidInstallReferrer" t="Include">
           <e p="Demo" t="Include">
             <e p="Scripts" t="Include">
@@ -152,6 +155,9 @@
             <e p="Scripts" t="Include">
               <e p="NoInternet.cs" t="Include" />
             </e>
+          </e>
+          <e p="Orientation" t="Include">
+            <e p="Orientation.cs" t="Include" />
           </e>
           <e p="PackageBuilder" t="Include">
             <e p="Editor" t="Include">
@@ -978,6 +984,9 @@
               </e>
             </e>
           </e>
+        </e>
+        <e p="StreamingAssets" t="Include">
+          <e p="google-services-desktop.json" t="Include" />
         </e>
         <e p="ThirdParty" t="Include">
           <e p="CrossPlatformInput" t="Include">
